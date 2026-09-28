@@ -2,7 +2,7 @@
 
 Решение тестового задания: база B2B-компаний, персонализация через скрипт, цепочка писем и аудит присланной базы.
 
-**Ссылка на таблицу: [ссылка на таблицу](https://docs.google.com/spreadsheets/d/1HCIz1datSJXNpEVrzmw9jz54zpJoZP5dvyI-eraIeEs/edit?usp=sharing)**
+**Ссылка на таблицу: [клик](https://docs.google.com/spreadsheets/d/1HCIz1datSJXNpEVrzmw9jz54zpJoZP5dvyI-eraIeEs/edit?usp=sharing)**
 
 ## Результаты по заданиям
 
